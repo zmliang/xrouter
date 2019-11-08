@@ -2,8 +2,8 @@
 <project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.way.xrouter-compiler</groupId>
-  <artifactId>XRouter-compiler</artifactId>
+  <groupId>com.way.xrouter</groupId>
+  <artifactId>compiler</artifactId>
   <version>1.0.0</version>
   <dependencies>
     <dependency>
@@ -26,7 +26,7 @@
     </dependency>
     <dependency>
       <groupId>android-router</groupId>
-      <artifactId>XRouter-api</artifactId>
+      <artifactId>api</artifactId>
       <version>unspecified</version>
       <scope>compile</scope>
     </dependency>
