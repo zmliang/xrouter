@@ -24,11 +24,5 @@
       <version>0.9</version>
       <scope>compile</scope>
     </dependency>
-    <dependency>
-      <groupId>android-router</groupId>
-      <artifactId>api</artifactId>
-      <version>unspecified</version>
-      <scope>compile</scope>
-    </dependency>
   </dependencies>
 </project>
